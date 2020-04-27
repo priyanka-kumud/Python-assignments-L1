@@ -1,2 +1,6 @@
-# Python-assignment-1
-Python assignment L1 -Set1
+# Python-assignments-L1
+Python foundation track assignments -
+
+Thesea are basic assignments useful for learning and practising basic python.
+
+
